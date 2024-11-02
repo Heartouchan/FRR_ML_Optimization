@@ -3,10 +3,11 @@ This code is to 1) predict the fire resistance rating (FRR) of wood-steel-wood (
 
 140 test and modelling results are collected and performances of nine ML models on the dataset are evaluated. The best ML model is employed for SHAP analysis. The GUI for predicting the FRR of WSW connections is provided in Application folder. The ML model is embeded in deap framework for NSGA-II to optimize the self-weight of the connection and FRR. 
 
-Requirements
+#Requirements
 To run the code package, the following dependencies should be installed:
 
-Python 3.6 or higher
+```bash
+Python 3.9 or higher
 PySimpleGUI
 NumPy
 Pandas
