@@ -1,4 +1,6 @@
-The collected fire resistance ratings of WSW connections are from 13 test series:
+The collected fire resistance ratings of WSW connections are from 13 test and modelling series:
+
+
 [1] D Dhima. Vérification expérimentale de la résistance au feu des assemblages d’éléments en bois. CTICM Ref. INC-99/399-DD/NB, CTICM, Paris, France, 1999.
 [2] N Ayme. Assemblages bois-me tal en double cisaillement. rapport du comportement au feu d’assemblages bois, cticm ref. Technical report, SR21-03/121-NA/PB, CTICM, Paris, France, 2003.
 [3] Puong Hock Lau. Fire resistance of connections in laminated veneer lumber (LVL). 2006.
