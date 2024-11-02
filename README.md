@@ -1,18 +1,21 @@
 # FRR_ML_Optimization
-This code is to 1) predict the fire resistance rating (FRR) of wood-steel-wood (WSW) connections based on machine-learning (ML) models and 2) optimize the FRR of the connection using Nondominated Sorting Genetic Algorithm II (NSGA=II).
 
-140 test and modelling results are collected and performances of nine ML models on the dataset are evaluated. The best ML model is employed for SHAP analysis. The GUI for predicting the FRR of WSW connections is provided in Application folder. The ML model is embeded in deap framework for NSGA-II to optimize the self-weight of the connection and FRR. 
+This project aims to:
+1. Predict the Fire Resistance Rating (FRR) of wood-steel-wood (WSW) connections using machine learning (ML) models.
+2. Optimize the FRR of the connection using the Nondominated Sorting Genetic Algorithm II (NSGA-II).
 
-**Requirement**
+A dataset of 140 test and modeling results has been collected, and the performance of nine ML models on this dataset has been evaluated. The best-performing ML model is then used for SHAP analysis to understand feature importance. A graphical user interface (GUI) for predicting the FRR of WSW connections is provided in the `Application` folder. This ML model is embedded in the DEAP framework to apply NSGA-II optimization, targeting both the self-weight and FRR of the connection.
 
-To run the code package, the following dependencies should be installed:
+## Requirements
+
+To run this code package, please install the following dependencies:
 
 ```bash
 Python 3.9 or higher
 PySimpleGUI
 NumPy
 Pandas
-Pillow (PIL)
+Pillow
 pickle
 scikit-learn
 shap
