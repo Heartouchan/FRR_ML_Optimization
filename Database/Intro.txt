@@ -1,0 +1,14 @@
+The collected fire resistance ratings of WSW connections are from 13 test series:
+[1] D Dhima. Vérification expérimentale de la résistance au feu des assemblages d’éléments en bois. CTICM Ref. INC-99/399-DD/NB, CTICM, Paris, France, 1999.
+[2] N Ayme. Assemblages bois-me tal en double cisaillement. rapport du comportement au feu d’assemblages bois, cticm ref. Technical report, SR21-03/121-NA/PB, CTICM, Paris, France, 2003.
+[3] Puong Hock Lau. Fire resistance of connections in laminated veneer lumber (LVL). 2006.
+[4] Terence Chung Biau Chuo. Fire performance of connections in laminated veneer lumber. 2007.
+[5] Andrea Frangi, Carsten Erchinger, and Mario Fontana. Experimental fire analysis of steel-to-timber connections using dowels and nails. Fire and Materials: An International Journal, 34(1):1–19, 2010.
+[6] Lei Peng. Performance of heavy timber connections in fire. PhD thesis, Carleton University, 2010.
+[7] P Racher, K Laplanche, D Dhima, and A Bouchaïr. Thermo-mechanical analysis of the fire performance of dowelled timber connection. Engineering Structures, 32(4):1148–1157, 2010.
+[8] M Audebert, D Dhima, M Taazount, and A Bouchaïr. Numerical investigations on the thermo-mechanical behavior of steel-to-timber joint sexposed to fire. Engineering Structures, 33(12):3257–3268, 2011.
+[9] M Audebert, D Dhima, M Taazount, and A Bouchaïr. Behavior of dowelled and bolted steel-to-timber connections exposed to fire. Engineering Structures, 39:116–125, 2012.
+[10] M Audebert, D Dhima, A Bouchaïr, and A Frangi. Review of experimental data for timber connections with dowel-type fasteners under standard fire exposure. Fire safety journal, 107:217–234, 2019.
+[11] M Audebert, D Dhima, and A Bouchaïr. Proposal for a new formula to predict the fire resistance of timber connections. Engineering Structures, 204:110041, 2020.
+[12] Marc Alam. Performance of Timber-to-Steel Bolted Connections Exposed to Fire. PhD thesis, Carleton University, 2023.
+[13] D Dhima, M Audebert, A Bouchaïr, and N Pinoteau. Fire tests of steel-to-timber connections with high fire resistance. Fire and Materials, 47(1):120–138, 2023
